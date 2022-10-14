@@ -3,7 +3,7 @@
 /**
  *main- Entry point
  *@void: parameter
- *Retur: 1 (success)
+ *Return: 1 (success)
  */
 
 int main(void)
