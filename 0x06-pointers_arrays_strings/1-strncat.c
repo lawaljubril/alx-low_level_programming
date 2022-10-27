@@ -1,9 +1,10 @@
 #include "main.h"
 
 /*
- * *_strncat - concatenates two strings
+ *
+ *
  *@src: Does not need to be null-terminated
- *@dest: The destination of the string
+ *
  *@n: The length of int
  *Return: pointer to the resulting string dest
  */
