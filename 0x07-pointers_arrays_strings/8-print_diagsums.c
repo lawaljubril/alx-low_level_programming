@@ -1,5 +1,4 @@
-#include "main.h"
-#include <stdio.h>
+:#include <stdio.h>
 
 /**
  * print_diagsums - prints sum of #'s in diagnols of square
